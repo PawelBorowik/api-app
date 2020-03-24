@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+.flag img{
+  
+  margin: 20px auto;
+  max-width: 500px;
+}
